@@ -8,4 +8,4 @@ You can run a specific experiment by running the experiment.py. In order to spec
 <a id="1">[1]</a> 
 Brian Tanner and Adam White. 
 RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments. 
-Journal of Machine Learning Research, 10:2133--2136, 2009.
+Journal of Machine Learning Research, 10:2133--2136, 2009. [RL-Glue Page](https://sites.google.com/a/rl-community.org/rl-glue/Home?authuser=0)
