@@ -3,7 +3,7 @@ This repository contains some of the codes from the paper [Useful Policy Invaria
 ## Requirements
 The code is tested with python 3.7 and requires NumPy package.
 ## Run an experiment
-You can run a specific experiment by running the experiment.py. In order to specify the experiment details such as the environment, the agent, learning parameters, etc., you can pass the name of your desired block from the experimental_config.ini to the config parser. We used a modified object-oriented version of RL-GLUE tfor handling the agent and environemnt interactions[[1]](#1).
+You can run a specific experiment by running the experiment.py. In order to specify the experiment details such as the environment, the agent, learning parameters, etc., you can pass the name of your desired block from the experimental_config.ini to the config parser. We used a modified object-oriented version of RL-Glue for handling the agent and environemnt interactions[[1]](#1).
 ## References
 <a id="1">[1]</a> 
 Brian Tanner and Adam White. 
